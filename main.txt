@@ -1,1 +1,1 @@
-zmiana w main z poziomu zmiany2
+zmiana w main z poziomu mastera
