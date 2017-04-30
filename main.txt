@@ -1,2 +1,3 @@
-i znowu lokalnie
-zmiana w main z poziomu mastera lokalnie i zmiany1 lokalnie
+i tutaj zmiany tez z poziomu zmiany 2
+zmiana w main z poziomu zmiany2
+i nowe zmiany z poziomu zmiany2
