@@ -1,1 +1,1 @@
-zmiany w branchu zmiany1 i inne zmiany tez w zmiany1
+zmiany w branchu zmiany1 i inne zmiany tez w zmiany1 (i ze zmiany2 zmergowane)
