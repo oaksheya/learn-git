@@ -1,1 +1,1 @@
-zmiana w main z poziomu mastera lokalnie
+zmiana w main z poziomu mastera lokalnie i zmiany1 lokalnie
