@@ -1,2 +1,3 @@
 czy zmiany sa odwracalne po commit?
+a po drugim commit tez?
 
