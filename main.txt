@@ -1,1 +1,2 @@
-zmiany z poziomu mastera
+czy zmiany sa odwracalne po commit?
+
